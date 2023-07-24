@@ -1,0 +1,33 @@
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nothing You Could Do', cursive;
+*/
+
+#Hitext{
+    width: 1115px;
+    height: 188px;
+    flex-shrink: 0;
+    font-family: 'Nothing You Could Do', cursive;
+    color: #000;
+    font-size: 133px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#Jheyanthtext{
+    width: 601px;
+    color: #000;
+    font-family: Abel;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 8.28px;
+}
+
+.text{
+    width: 1102px;
+    height: 265px;
+    flex-shrink: 0;
+}
